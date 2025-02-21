@@ -6,7 +6,7 @@ version: 0.0.1
 environment:
   sdk: ^3.3.4
 
-# Add regular dependencies here.
+
 dependencies:
   args: ^2.4.2
 
